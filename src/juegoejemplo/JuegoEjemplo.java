@@ -1,6 +1,4 @@
-
 package juegoejemplo;
-
 
 public class JuegoEjemplo {
 
