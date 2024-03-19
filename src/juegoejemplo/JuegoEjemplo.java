@@ -8,7 +8,7 @@ public class JuegoEjemplo {
         Auto ford = new Auto("rojo", 10,5);
         Auto nissan =new Auto("Amarillo",15,20);
         Escena escena1=new Escena(ford);
-        Escena escena2=new Escena(nissan)
+        Escena escena2=new Escena(nissan);
         escena1.jugar();
         escena2.jugar();
 
