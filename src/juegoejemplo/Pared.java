@@ -1,6 +1,4 @@
-
 package juegoejemplo;
-
 
 public class Pared {
     //La Pared tiene una dimensión 5 x 5

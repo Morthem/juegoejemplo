@@ -1,4 +1,3 @@
-
 package juegoejemplo;
 
 import java.util.Scanner;

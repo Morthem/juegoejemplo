@@ -1,4 +1,3 @@
-
 package juegoejemplo;
 
 import javax.swing.JOptionPane;
