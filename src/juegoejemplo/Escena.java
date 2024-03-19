@@ -55,6 +55,7 @@ public class Escena {
         //W---Para arriba
         //E..Salir del juego
         //si el auto choca con la pared, el auto queda chocado.
+        //Prueba
     }
     
 }
